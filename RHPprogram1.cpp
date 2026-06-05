@@ -19,7 +19,7 @@ solve();
     return 0;
 }
 
-\\combinational sequence
+\\To generate all combinational sequences
 #include<iostream>
 using namespace std;
 void solve(){
